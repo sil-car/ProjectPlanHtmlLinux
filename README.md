@@ -10,3 +10,10 @@ be considered a prerequisite for these based on the current structure.
 
 These could be cleanly separated out from Mike's scripts, but ideally the two
 would instead be integrated together into one set.
+
+## How to Use
+
+- Click on the "Code" button above and choose "Download ZIP".
+- Extract the "ProjectPlan..." files into `~/Paratext8Projects/cms`.
+- Start Paratext9 and find the new entry in the Project Menu:
+  ![image](menu.jpg)
