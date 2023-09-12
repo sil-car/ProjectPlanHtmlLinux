@@ -16,4 +16,4 @@ would instead be integrated together into one set.
 - Click on the "Code" button above and choose "Download ZIP".
 - Extract the "ProjectPlan..." files into `~/Paratext8Projects/cms`.
 - Start Paratext9 and find the new entry in the Project Menu:
-  ![image](menu.jpg)
+  ![image](menu.png)
